@@ -207,7 +207,7 @@ html {
 }
 
 .graphics-design-section article {
-  height: 60vh;
+  height: 80vh;
   display: flex;
   flex-direction: column;
   justify-content: end;
@@ -333,7 +333,7 @@ html {
     order: 2;
   }
   .stand-out-section img {
-    width: 60%;
+    width: 50%;
     max-width: 750px;
   }
 
